@@ -7,15 +7,20 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="155.68306mm"
-   height="54.006866mm"
-   viewBox="0 0 155.68306 54.006866"
+   width="54.006866mm"
+   height="155.68306mm"
+   viewBox="0 0 54.006867 155.68306"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="bookmark.svg">
+   sodipodi:docname="bookmark.svg"
+   inkscape:export-filename="/tmp/dataeng_bookmark.png"
+   inkscape:export-xdpi="510.56"
+   inkscape:export-ydpi="510.56"
+   style="enable-background:new">
   <defs
      id="defs2">
     <clipPath
@@ -222,6 +227,45 @@
          id="path2526"
          d="M 0,153.144 H 441.144 V 0 H 0 Z" />
     </clipPath>
+    <linearGradient
+       id="linearGradient5874"
+       inkscape:collect="always">
+      <stop
+         id="stop5876"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop5878"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="664.12427"
+       x2="598.41638"
+       y1="664.12427"
+       x1="115.86857"
+       id="linearGradient5880"
+       xlink:href="#linearGradient5874"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5874"
+       id="linearGradient9404"
+       gradientUnits="userSpaceOnUse"
+       x1="115.86857"
+       y1="664.12427"
+       x2="598.41638"
+       y2="664.12427" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5874"
+       id="linearGradient9406"
+       gradientUnits="userSpaceOnUse"
+       x1="115.86857"
+       y1="664.12427"
+       x2="598.41638"
+       y2="664.12427" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -230,18 +274,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="342.13936"
-     inkscape:cy="68.933554"
+     inkscape:zoom="0.97610345"
+     inkscape:cx="-98.394054"
+     inkscape:cy="306.74682"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="3840"
-     inkscape:window-height="2053"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -261,63 +305,50 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(186.01886,-64.342298)"
+     transform="translate(186.01886,37.333895)"
      style="display:inline">
     <rect
        inkscape:export-ydpi="510.56"
        inkscape:export-xdpi="510.56"
-       y="64.406029"
-       x="-185.87894"
+       y="132.05978"
+       x="-37.248005"
        height="53.911274"
        width="155.51128"
        id="rect5963"
-       style="display:inline;opacity:1;fill:#29395b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06372532;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#29395b;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.06372532;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
   </g>
   <g
      inkscape:label="Design"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(186.01886,-64.342298)"
+     transform="translate(186.01886,37.333895)"
      style="display:inline">
     <g
-       id="g908"
-       transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)" />
-    <g
-       id="g2212"
-       transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)" />
-    <g
-       id="g2216"
-       transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)">
+       id="g9666"
+       transform="rotate(90,-108.33,40.58879)">
       <g
-         clip-path="url(#clipPath906)"
-         id="g2214"
-         style="opacity:0.35000604" />
-    </g>
-    <g
-       id="layer3"
-       inkscape:label="Bottom"
-       style="display:inline"
-       transform="matrix(0.0304901,0,0,0.0304901,-305.68486,111.87152)" />
-    <g
-       id="g1156">
-      <text
-         id="text1072"
-         y="87.606476"
-         x="-147.61401"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.7440238px;line-height:0.01%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.14533533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="stroke-width:0.14533533px"
-           id="tspan1070"
-           y="87.606476"
-           x="-147.61401"
-           sodipodi:role="line"><tspan
-             id="tspan1068"
-             style="font-size:7.26676559px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke-width:0.14533533px"
-             y="87.606476"
-             x="-147.61401">Data Engineering Podcast</tspan></tspan></text>
+         transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)"
+         id="g908" />
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)"
+         id="g2212" />
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,-185.91409,118.39385)"
+         id="g2216">
+        <g
+           style="opacity:0.35000604"
+           id="g2214"
+           clip-path="url(#clipPath906)" />
+      </g>
+      <g
+         transform="matrix(0.0304901,0,0,0.0304901,-305.68486,111.87152)"
+         style="display:inline"
+         inkscape:label="Bottom"
+         id="layer3" />
       <g
          aria-label="dataengineeringpodcast.com"
-         transform="matrix(0.16732221,0,0,0.16732221,-145.21528,54.433882)"
+         transform="matrix(0,-0.12822149,0.12822149,0,-70.540578,129.07993)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.85925865px;line-height:25px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot4788">
         <path
@@ -452,271 +483,179 @@
            id="path5018" />
       </g>
       <g
-         transform="matrix(0.0304901,0,0,0.0304901,-140.47317,110.3984)"
-         aria-label="The Show About Modern Data Management"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.11363649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text43">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 112.98077,-533.37555 h 10.64 v -74.22666 h 27.35999 v -8.86667 H 85.620766 v 8.86667 h 27.360004 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4903" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 168.03128,-533.37555 h 10.38667 v -42.94 c 7.22,-7.47333 12.16,-11.14666 19.50666,-11.14666 10.13334,0 14.18667,5.57333 14.18667,17.22666 v 36.86 h 10.38667 v -38.25333 c 0,-16.21333 -6.71334,-24.82667 -21.28,-24.82667 -9.62667,0 -16.72,5.19334 -23.05334,12.03334 h -0.38 l 0.63334,-14.56667 v -24.57333 h -10.38667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4905" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 274.0018,-531.85555 c 9.88,0 17.73333,-3.29333 23.81333,-7.34667 l -3.8,-6.84 c -5.57333,3.54667 -11.4,5.82667 -18.74667,5.82667 -12.79333,0 -22.67333,-7.09333 -23.94,-21.02667 h 48.51334 c 0.25333,-1.64666 0.50666,-3.92666 0.50666,-6.33333 0,-17.35333 -10.38666,-28.88 -28.12,-28.88 -16.46666,0 -31.41333,12.16 -31.41333,32.17333 0,20.52 14.69333,32.42667 33.18667,32.42667 z m -1.52,-56.36666 c 10.51333,0 17.48,6.20666 18.36666,18.87333 H 251.5818 c 1.9,-12.16 10.76666,-18.87333 20.9,-18.87333 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4907" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 422.73616,-531.85555 c 18.24,0 29.38667,-10.51333 29.38667,-23.68667 0,-12.28666 -8.10667,-17.98666 -18.36667,-22.16666 l -11.65333,-5.06667 c -7.09333,-2.91333 -14.82,-5.82666 -14.82,-13.80666 0,-7.47334 6.46,-12.16 16.08666,-12.16 8.61334,0 14.94667,3.04 20.39334,7.85333 l 5.57333,-6.84 c -6.08,-6.08 -15.2,-10.26 -25.58667,-10.26 -15.83333,0 -27.23333,9.37333 -27.23333,22.04 0,12.16 9.62667,18.11333 17.98667,21.40666 l 11.90666,5.19334 c 8.48667,3.67333 14.94667,6.20666 14.94667,15.07333 0,7.72667 -6.71333,13.17333 -18.11333,13.17333 -9.5,0 -18.11333,-4.18 -24.32,-10.38666 l -6.33333,7.34666 c 7.47333,7.47334 17.98666,12.28667 30.14666,12.28667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4909" />
-        <path
-           inkscape:connector-curvature="0"
-           d="M 471.83333,-533.37555 H 482.22 v -42.94 c 7.22,-7.47333 12.16,-11.14666 19.50666,-11.14666 10.13334,0 14.18667,5.57333 14.18667,17.22666 v 36.86 h 10.38666 v -38.25333 c 0,-16.21333 -6.71333,-24.82667 -21.27999,-24.82667 -9.62667,0 -16.72,5.19334 -23.05334,12.03334 h -0.38 l 0.63334,-14.56667 v -24.57333 h -10.38667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4911" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 574.00386,-531.85555 c 16.21333,0 30.4,-11.78 30.4,-32.17333 0,-20.64667 -14.18667,-32.42667 -30.4,-32.42667 -16.21333,0 -30.4,11.78 -30.4,32.42667 0,20.39333 14.18667,32.17333 30.4,32.17333 z m 0,-8.61333 c -11.78,0 -19.63333,-9.5 -19.63333,-23.56 0,-14.18667 7.85333,-23.81333 19.63333,-23.81333 11.78,0 19.63333,9.62666 19.63333,23.81333 0,14.06 -7.85333,23.56 -19.63333,23.56 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4913" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 626.39439,-533.37555 h 13.42667 l 6.84,-29.38667 c 1.01333,-4.30666 2.02666,-10.38666 3.04,-18.24 h 0.50666 c 1.01334,7.85334 2.02667,13.93334 3.04,18.24 l 7.09334,29.38667 h 13.42666 l 13.17334,-61.56 h -9.62667 l -7.34667,35.72 c -1.14,5.82667 -1.77333,11.14667 -2.78666,16.97333 h -0.50667 c -0.76,-5.82666 -2.40667,-11.14666 -3.8,-16.97333 l -7.34667,-31.92 h -10.38666 l -7.6,31.92 c -1.39334,5.7 -2.78667,11.14667 -3.54667,16.97333 h -0.50667 c -0.76,-5.82666 -1.64666,-11.14666 -2.78666,-16.97333 l -7.34667,-35.72 h -10.38667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4915" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 793.24206,-579.86222 c 2.91333,-9.24666 5.57333,-18.36666 8.23333,-27.99333 h 0.50667 c 2.53333,9.62667 5.32,18.74667 8.23333,27.99333 l 3.92667,12.66667 h -24.82667 z m -25.33333,46.48667 h 10.76666 l 7.98,-25.33333 h 30.14667 l 7.85333,25.33333 h 11.14667 l -27.99334,-83.09333 h -11.90666 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4917" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 880.33923,-531.85555 c 14.69333,0 27.86666,-12.28667 27.86666,-33.31333 0,-19 -8.99333,-31.28667 -25.58666,-31.28667 -7.22,0 -15.07334,3.67334 -20.64667,9.37334 h -0.38 l 0.38,-11.90667 v -24.57333 h -10.38667 v 90.18666 h 8.36 l 0.88667,-6.84 h 0.38 c 5.82667,5.19333 13.17333,8.36 19.12667,8.36 z m -1.64667,-8.74 c -4.43333,0 -10.89333,-2.02667 -16.72,-7.22 v -30.65333 c 6.33333,-6.33333 12.66667,-9.24667 18.11333,-9.24667 12.28667,0 17.35334,9.12 17.35334,22.67333 0,15.2 -7.98,24.44667 -18.74667,24.44667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4919" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 953.75645,-531.85555 c 16.21334,0 30.4,-11.78 30.4,-32.17333 0,-20.64667 -14.18666,-32.42667 -30.4,-32.42667 -16.21333,0 -30.4,11.78 -30.4,32.42667 0,20.39333 14.18667,32.17333 30.4,32.17333 z m 0,-8.61333 c -11.78,0 -19.63333,-9.5 -19.63333,-23.56 0,-14.18667 7.85333,-23.81333 19.63333,-23.81333 11.78,0 19.63334,9.62666 19.63334,23.81333 0,14.06 -7.85334,23.56 -19.63334,23.56 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4921" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1022.867,-531.85555 c 9.5,0 16.72,-5.06667 22.9266,-12.28667 h 0.5067 l 0.8867,10.76667 h 8.4866 v -61.56 h -10.3866 v 42.68667 c -6.84,7.98 -12.0334,11.4 -19.1267,11.4 -10.26,0 -14.1867,-5.57334 -14.1867,-17.22667 v -36.86 h -10.5133 v 38.25333 c 0,16.21334 6.7133,24.82667 21.4067,24.82667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4923" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1117.5641,-531.85555 c 7.7267,0 13.68,-1.64667 19.2534,-3.67333 l -2.28,-7.6 c -4.4334,1.64666 -8.9934,2.78666 -14.82,2.78666 -11.9067,0 -15.58,-5.82666 -15.58,-16.84666 v -29.26 h 30.2733 v -8.48667 h -30.2733 v -19.76 h -8.6134 l -1.3933,19.76 -17.7333,0.63334 v 7.85333 h 17.3533 v 29.13333 c 0,15.2 5.8267,25.46 23.8133,25.46 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4925" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1228.6785,-533.37555 h 9.88 v -41.54667 c 0,-8.10666 -1.0134,-22.29333 -1.7734,-29.38666 h 0.2534 l 4.8133,16.21333 11.6533,32.68 h 7.6 l 11.9067,-32.68 4.6867,-16.21333 h 0.38 c -0.5067,7.09333 -1.7734,21.28 -1.7734,29.38666 v 41.54667 h 10.1334 v -83.09333 h -12.92 l -11.78,35.46666 -3.9267,13.42667 h -0.5067 l -4.0533,-13.42667 -11.6533,-35.46666 h -12.92 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4927" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1333.509,-531.85555 c 16.2134,0 30.4,-11.78 30.4,-32.17333 0,-20.64667 -14.1866,-32.42667 -30.4,-32.42667 -16.2133,0 -30.4,11.78 -30.4,32.42667 0,20.39333 14.1867,32.17333 30.4,32.17333 z m 0,-8.61333 c -11.78,0 -19.6333,-9.5 -19.6333,-23.56 0,-14.18667 7.8533,-23.81333 19.6333,-23.81333 11.78,0 19.6334,9.62666 19.6334,23.81333 0,14.06 -7.8534,23.56 -19.6334,23.56 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4929" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1405.7862,-531.85555 c 7.6,0 14.9467,-4.43333 20.0134,-9.62667 h 0.38 l 0.8866,8.10667 h 8.6134 v -90.18666 h -10.3867 v 23.68666 l 0.5067,11.4 h -0.38 c -5.32,-5.06666 -11.02,-7.98 -18.3667,-7.98 -14.5667,0 -27.9933,12.41334 -27.9933,32.42667 0,20.52 10.64,32.17333 26.7266,32.17333 z m 2.1534,-8.74 c -11.4,0 -18.1134,-8.86667 -18.1134,-23.56 0,-14.06 8.6134,-23.56 19.2534,-23.56 5.32,0 10.64,2.02667 16.2133,7.22 v 30.65333 c -5.4467,6.08 -11.2733,9.24667 -17.3533,9.24667 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4931" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1489.21,-531.85555 c 9.88,0 17.7334,-3.29333 23.8134,-7.34667 l -3.8,-6.84 c -5.5734,3.54667 -11.4,5.82667 -18.7467,5.82667 -12.7933,0 -22.6733,-7.09333 -23.94,-21.02667 h 48.5133 c 0.2534,-1.64666 0.5067,-3.92666 0.5067,-6.33333 0,-17.35333 -10.3867,-28.88 -28.12,-28.88 -16.4667,0 -31.4133,12.16 -31.4133,32.17333 0,20.52 14.6933,32.42667 33.1866,32.42667 z m -1.52,-56.36666 c 10.5134,0 17.48,6.20666 18.3667,18.87333 H 1466.79 c 1.9,-12.16 10.7667,-18.87333 20.9,-18.87333 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4933" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1541.8539,-533.37555 h 10.3867 v -36.1 c 7.3466,-12.79333 16.0866,-17.60666 25.3333,-17.60666 4.8133,0 7.0933,0.63333 11.4,2.15333 l 2.4067,-8.99333 c -3.8,-1.9 -7.6,-2.53334 -12.16,-2.53334 -11.4,0 -21.0267,6.20667 -27.4867,16.08667 h -0.38 l -0.8867,-14.56667 h -8.6133 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4935" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1611.091,-533.37555 h 10.3867 v -42.94 c 7.22,-7.47333 12.16,-11.14666 19.5067,-11.14666 10.1333,0 14.1866,5.57333 14.1866,17.22666 v 36.86 h 10.3867 v -38.25333 c 0,-16.21333 -6.7133,-24.82667 -21.28,-24.82667 -9.6267,0 -16.72,5.19334 -23.18,12.03334 h -0.5067 l -0.8866,-10.51334 h -8.6134 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4937" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1762.2321,-533.37555 h 21.0267 c 24.4467,0 38,-15.45333 38,-41.92667 0,-26.34666 -13.5533,-41.16666 -38.5067,-41.16666 h -20.52 z m 10.5134,-8.61333 v -65.86667 h 9.2466 c 19,0 28.3734,11.65334 28.3734,32.55333 0,21.02667 -9.3734,33.31334 -28.3734,33.31334 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4939" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1858.3226,-531.85555 c 8.74,0 17.48,-4.56 24.32,-9.88 h 0.38 l 0.8866,8.36 h 8.4867 v -37.74667 c 0,-15.32666 -8.1067,-25.33333 -24.9533,-25.33333 -10.7667,0 -21.1534,4.81334 -27.36,8.86667 l 4.0533,7.09333 c 5.7,-3.54666 13.5533,-7.34666 21.5333,-7.34666 11.9067,0 16.0867,7.09333 16.34,15.45333 -31.7933,2.53333 -44.5866,9.24666 -44.5866,23.05333 0,11.02 9.3733,17.48 20.9,17.48 z m 2.7866,-8.36 c -7.0933,0 -13.5533,-2.91333 -13.5533,-9.88 0,-8.10667 8.1067,-13.3 34.4533,-15.45333 v 16.21333 c -6.9666,5.82667 -13.9333,9.12 -20.9,9.12 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4941" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 1953.0198,-531.85555 c 7.7267,0 13.68,-1.64667 19.2533,-3.67333 l -2.28,-7.6 c -4.4333,1.64666 -8.9933,2.78666 -14.82,2.78666 -11.9066,0 -15.58,-5.82666 -15.58,-16.84666 v -29.26 h 30.2734 v -8.48667 h -30.2734 v -19.76 h -8.6133 l -1.3933,19.76 -17.7334,0.63334 v 7.85333 h 17.3534 v 29.13333 c 0,15.2 5.8266,25.46 23.8133,25.46 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4943" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2010.2237,-531.85555 c 8.74,0 17.48,-4.56 24.32,-9.88 h 0.38 l 0.8867,8.36 h 8.4866 v -37.74667 c 0,-15.32666 -8.1066,-25.33333 -24.9533,-25.33333 -10.7667,0 -21.1533,4.81334 -27.36,8.86667 l 4.0533,7.09333 c 5.7,-3.54666 13.5534,-7.34666 21.5334,-7.34666 11.9066,0 16.0866,7.09333 16.34,15.45333 -31.7934,2.53333 -44.5867,9.24666 -44.5867,23.05333 0,11.02 9.3733,17.48 20.9,17.48 z m 2.7867,-8.36 c -7.0934,0 -13.5534,-2.91333 -13.5534,-9.88 0,-8.10667 8.1067,-13.3 34.4534,-15.45333 v 16.21333 c -6.9667,5.82667 -13.9334,9.12 -20.9,9.12 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4945" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2140.0846,-533.37555 h 9.88 v -41.54667 c 0,-8.10666 -1.0133,-22.29333 -1.7733,-29.38666 h 0.2533 l 4.8133,16.21333 11.6534,32.68 h 7.6 l 11.9066,-32.68 4.6867,-16.21333 h 0.38 c -0.5067,7.09333 -1.7734,21.28 -1.7734,29.38666 v 41.54667 h 10.1334 v -83.09333 h -12.92 l -11.78,35.46666 -3.9267,13.42667 h -0.5066 l -4.0534,-13.42667 -11.6533,-35.46666 h -12.92 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4947" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2238.0753,-531.85555 c 8.74,0 17.48,-4.56 24.32,-9.88 h 0.38 l 0.8866,8.36 h 8.4867 v -37.74667 c 0,-15.32666 -8.1067,-25.33333 -24.9533,-25.33333 -10.7667,0 -21.1534,4.81334 -27.36,8.86667 l 4.0533,7.09333 c 5.7,-3.54666 13.5533,-7.34666 21.5333,-7.34666 11.9067,0 16.0867,7.09333 16.34,15.45333 -31.7933,2.53333 -44.5866,9.24666 -44.5866,23.05333 0,11.02 9.3733,17.48 20.9,17.48 z m 2.7866,-8.36 c -7.0933,0 -13.5533,-2.91333 -13.5533,-9.88 0,-8.10667 8.1067,-13.3 34.4533,-15.45333 v 16.21333 c -6.9666,5.82667 -13.9333,9.12 -20.9,9.12 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4949" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2294.6457,-533.37555 h 10.3867 v -42.94 c 7.22,-7.47333 12.16,-11.14666 19.5066,-11.14666 10.1334,0 14.1867,5.57333 14.1867,17.22666 v 36.86 h 10.3867 v -38.25333 c 0,-16.21333 -6.7134,-24.82667 -21.28,-24.82667 -9.6267,0 -16.72,5.19334 -23.18,12.03334 h -0.5067 l -0.8867,-10.51334 h -8.6133 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4951" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2389.9761,-531.85555 c 8.74,0 17.48,-4.56 24.32,-9.88 h 0.38 l 0.8867,8.36 h 8.4867 v -37.74667 c 0,-15.32666 -8.1067,-25.33333 -24.9534,-25.33333 -10.7666,0 -21.1533,4.81334 -27.36,8.86667 l 4.0534,7.09333 c 5.7,-3.54666 13.5533,-7.34666 21.5333,-7.34666 11.9067,0 16.0867,7.09333 16.34,15.45333 -31.7933,2.53333 -44.5867,9.24666 -44.5867,23.05333 0,11.02 9.3734,17.48 20.9,17.48 z m 2.7867,-8.36 c -7.0933,0 -13.5533,-2.91333 -13.5533,-9.88 0,-8.10667 8.1066,-13.3 34.4533,-15.45333 v 16.21333 c -6.9667,5.82667 -13.9333,9.12 -20.9,9.12 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4953" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2472.2602,-505.00222 c 20.9,0 34.2,-10.00666 34.2,-21.53333 0,-10.38667 -7.6,-14.44 -23.4334,-14.44 h -13.8066 c -8.1067,0 -12.7934,-2.28 -12.7934,-7.09333 0,-2.91334 1.7734,-5.19334 4.8134,-7.09334 3.42,1.52 7.22,2.28 10.3866,2.28 13.3,0 23.8134,-7.98 23.8134,-21.15333 0,-4.94 -2.4067,-9.5 -5.1934,-12.41333 h 15.96 v -8.48667 h -25.46 c -2.66,-1.01333 -5.5733,-1.52 -9.12,-1.52 -13.0466,0 -24.1933,8.61334 -24.1933,22.04 0,7.34667 3.42,12.79333 7.6,15.96 v 0.50667 c -4.6867,3.16666 -7.3467,7.6 -7.3467,11.52666 0,5.19334 3.04,8.36 6.3334,10.13334 v 0.50666 c -6.5867,3.8 -10.1334,8.74 -10.1334,13.68 0,10.89334 10.3867,17.1 28.3734,17.1 z m -0.6334,-54.84666 c -7.7266,0 -14.1866,-5.7 -14.1866,-14.56667 0,-8.61333 6.46,-14.44 14.1866,-14.44 7.8534,0 14.1867,5.82667 14.1867,14.44 0,8.86667 -6.3333,14.56667 -14.1867,14.56667 z m 1.3934,47.24666 c -13.1734,0 -20.14,-4.05333 -20.14,-10.51333 0,-3.54667 2.0266,-7.09333 7.8533,-10.26 2.66,0.76 5.8267,1.01333 9.3733,1.01333 h 12.0334 c 9.3733,0 14.06,1.64667 14.06,7.47334 0,6.33333 -8.8667,12.28666 -23.18,12.28666 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4955" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2552.5173,-531.85555 c 9.88,0 17.7333,-3.29333 23.8133,-7.34667 l -3.8,-6.84 c -5.5733,3.54667 -11.4,5.82667 -18.7467,5.82667 -12.7933,0 -22.6733,-7.09333 -23.94,-21.02667 h 48.5134 c 0.2533,-1.64666 0.5066,-3.92666 0.5066,-6.33333 0,-17.35333 -10.3866,-28.88 -28.12,-28.88 -16.4666,0 -31.4133,12.16 -31.4133,32.17333 0,20.52 14.6933,32.42667 33.1867,32.42667 z m -1.52,-56.36666 c 10.5133,0 17.48,6.20666 18.3666,18.87333 h -39.2666 c 1.9,-12.16 10.7666,-18.87333 20.9,-18.87333 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4957" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2594.0144,-533.37555 h 10.3866 v -44.58667 c 3.04,-6.33333 5.8267,-9.49999 10.1334,-9.49999 4.56,0 6.3333,3.67333 6.3333,10.76666 v 43.32 h 9.6267 v -44.58667 c 3.2933,-6.33333 5.5733,-9.49999 9.88,-9.49999 4.56,0 6.5866,3.67333 6.5866,10.76666 v 43.32 h 10.3867 v -44.08 c 0,-12.28666 -5.0667,-19 -13.68,-19 -7.0933,0 -10.8933,4.05334 -14.44,10.64 -1.7733,-7.09333 -5.5733,-10.64 -11.6533,-10.64 -7.0934,0 -10.8934,3.92667 -14.06,9.62667 h -0.2534 l -0.8866,-8.10667 h -8.36 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4959" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2704.4184,-531.85555 c 9.88,0 17.7333,-3.29333 23.8133,-7.34667 l -3.8,-6.84 c -5.5733,3.54667 -11.4,5.82667 -18.7466,5.82667 -12.7934,0 -22.6734,-7.09333 -23.94,-21.02667 h 48.5133 c 0.2533,-1.64666 0.5067,-3.92666 0.5067,-6.33333 0,-17.35333 -10.3867,-28.88 -28.12,-28.88 -16.4667,0 -31.4134,12.16 -31.4134,32.17333 0,20.52 14.6934,32.42667 33.1867,32.42667 z m -1.52,-56.36666 c 10.5133,0 17.48,6.20666 18.3667,18.87333 h -39.2667 c 1.9,-12.16 10.7667,-18.87333 20.9,-18.87333 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4961" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2750.3488,-533.37555 h 10.3867 v -42.94 c 7.22,-7.47333 12.16,-11.14666 19.5067,-11.14666 10.1333,0 14.1866,5.57333 14.1866,17.22666 v 36.86 h 10.3867 v -38.25333 c 0,-16.21333 -6.7133,-24.82667 -21.28,-24.82667 -9.6267,0 -16.72,5.19334 -23.18,12.03334 h -0.5067 l -0.8866,-10.51334 h -8.6134 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4963" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 2864.4259,-531.85555 c 7.7267,0 13.68,-1.64667 19.2534,-3.67333 l -2.28,-7.6 c -4.4334,1.64666 -8.9934,2.78666 -14.82,2.78666 -11.9067,0 -15.58,-5.82666 -15.58,-16.84666 v -29.26 h 30.2733 v -8.48667 h -30.2733 v -19.76 h -8.6134 l -1.3933,19.76 -17.7333,0.63334 v 7.85333 h 17.3533 v 29.13333 c 0,15.2 5.8267,25.46 23.8133,25.46 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.66666412px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:5.11363649px"
-           id="path4965" />
-      </g>
+         transform="matrix(0.26458333,0,0,0.26458333,-115.17217,108.96034)"
+         style="display:inline"
+         inkscape:label="Bottom"
+         id="layer3-3" />
       <g
-         id="g4309-9"
-         transform="matrix(0.11487176,0,0,0.11487176,-173.13348,79.623194)"
-         style="stroke:#ffffff;stroke-opacity:0.98823529">
-        <path
-           id="path4311-3-6"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 142,192 v -40 c 0,-5.52 13.43,-10 30,-10 16.57,0 30,4.48 30,10 v 40 c 0,5.52 -13.43,10 -30,10 -16.57,0 -30,-4.48 -30,-10 z"
-           inkscape:connector-curvature="0"
-           style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4313-1-0"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 142,152 c 0,5.52 13.43,10 30,10 16.57,0 30,-4.48 30,-10"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4315-4"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="M 47,52 H 42 V 92 H 72.9"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4317-1"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 79.65,92 -9,4.5 2.25,-4.5 -2.25,-4.5 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4319-0"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="M 19.65,6.25 C 20.7,3.58 22.4,2.03 24.21,2.1 h 62.87 c 1.43,-0.03 2.81,0.43 3.7,1.24 0.9,0.82 1.22,1.9 0.86,2.91 l -17.32,41.5 c -1.05,2.67 -2.75,4.22 -4.55,4.15 H 5.98 C 4.71,51.75 3.59,51.21 2.89,50.42 2.2,49.62 2,48.66 2.34,47.75 Z"
-           inkscape:connector-curvature="0"
-           style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4321-4"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 110,122 v 50 h 21.9"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4323-8"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 138.65,172 -9,4.5 2.25,-4.5 -2.25,-4.5 z"
-           inkscape:connector-curvature="0"
-           style="fill:#000000;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529" />
-        <path
-           id="path4325-7"
-           pointer-events="none"
-           stroke-miterlimit="10"
-           d="m 65.5,122 h 87.99 c 1.17,-0.05 2.24,-0.68 2.84,-1.67 0.6,-0.99 0.66,-2.22 0.16,-3.26 l -45,-54.24 c -1.2,-0.83 -2.79,-0.83 -3.99,0 l -45,54.24 c -0.5,1.04 -0.44,2.27 0.16,3.26 0.6,0.99 1.67,1.62 2.84,1.67 z"
-           inkscape:connector-curvature="0"
-           style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529" />
+         transform="matrix(0,-0.09345218,0.09345218,0,-175.11883,115.60925)"
+         id="g4340"
+         inkscape:export-xdpi="490.91"
+         inkscape:export-ydpi="490.91">
+        <flowRoot
+           transform="translate(-96.533124,-631.20017)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4331"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4333"
+             style="fill:url(#linearGradient9404);fill-opacity:1"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+               y="557.58575"
+               x="209.0488"
+               height="99.904907"
+               width="805.29407"
+               id="rect4335" /></flowRegion><flowPara
+             id="flowPara4337"
+             style="font-size:50px;line-height:1.25;fill:#ffffff;fill-opacity:1">Data</flowPara></flowRoot>        <flowRoot
+           transform="translate(87.534426,-842.82864)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4339"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4341"
+             style="fill:url(#linearGradient9406);fill-opacity:1"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+               y="837.9314"
+               x="85.743896"
+               height="73.230911"
+               width="578.0011"
+               id="rect4343" /></flowRegion><flowPara
+             id="flowPara4345"
+             style="font-size:50px;line-height:1.25;fill:#ffffff;fill-opacity:1">Engineering</flowPara></flowRoot>        <flowRoot
+           transform="translate(70.801016,-839.87568)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4347"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4349"
+             style="fill:url(#linearGradient5880);fill-opacity:1"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+               y="910.52362"
+               x="153.50352"
+               height="71.950439"
+               width="523.27594"
+               id="rect4351" /></flowRegion><flowPara
+             id="flowPara4353"
+             style="font-size:50px;line-height:1.25;fill:#ffffff;fill-opacity:1">Podcast</flowPara></flowRoot>        <g
+           style="stroke:#ffffff;stroke-opacity:0.98823529"
+           transform="translate(17.731073,-69.124859)"
+           id="g4309">
+          <path
+             style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 142,192 v -40 c 0,-5.52 13.43,-10 30,-10 16.57,0 30,4.48 30,10 v 40 c 0,5.52 -13.43,10 -30,10 -16.57,0 -30,-4.48 -30,-10 z"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4311-3" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 142,152 c 0,5.52 13.43,10 30,10 16.57,0 30,-4.48 30,-10"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4313-1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="M 47,52 H 42 V 92 H 72.9"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4315" />
+          <path
+             style="fill:#000000;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 79.65,92 -9,4.5 2.25,-4.5 -2.25,-4.5 z"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4317" />
+          <path
+             style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="M 19.65,6.25 C 20.7,3.58 22.4,2.03 24.21,2.1 h 62.87 c 1.43,-0.03 2.81,0.43 3.7,1.24 0.9,0.82 1.22,1.9 0.86,2.91 l -17.32,41.5 c -1.05,2.67 -2.75,4.22 -4.55,4.15 H 5.98 C 4.71,51.75 3.59,51.21 2.89,50.42 2.2,49.62 2,48.66 2.34,47.75 Z"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4319" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 110,122 v 50 h 21.9"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4321" />
+          <path
+             style="fill:#000000;stroke:#ffffff;stroke-width:3;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 138.65,172 -9,4.5 2.25,-4.5 -2.25,-4.5 z"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4323" />
+          <path
+             style="fill:#666666;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10;stroke-opacity:0.98823529"
+             inkscape:connector-curvature="0"
+             d="m 65.5,122 h 87.99 c 1.17,-0.05 2.24,-0.68 2.84,-1.67 0.6,-0.99 0.66,-2.22 0.16,-3.26 l -45,-54.24 c -1.2,-0.83 -2.79,-0.83 -3.99,0 l -45,54.24 c -0.5,1.04 -0.44,2.27 0.16,3.26 0.6,0.99 1.67,1.62 2.84,1.67 z"
+             stroke-miterlimit="10"
+             pointer-events="none"
+             id="path4325" />
+        </g>
       </g>
+      <text
+         transform="rotate(-90)"
+         id="text9483"
+         y="-44.562275"
+         x="-91.377357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43925047px;line-height:125%;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1719625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43925047px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.1719625px"
+           y="-44.562275"
+           x="-91.377357"
+           id="tspan9481"
+           sodipodi:role="line">The Show About</tspan><tspan
+           id="tspan9485"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.43925047px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.1719625px"
+           y="-40.26321"
+           x="-91.377357"
+           sodipodi:role="line">Modern Data Management</tspan></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Guides"
-     style="display:inline"
-     transform="translate(186.01886,-64.342298)">
-    <path
-       d="M -32.031368,116.7298 H -184.40597 V 65.929798 h 152.374602 z"
-       style="fill:none;stroke:#343596;stroke-width:0.35313058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25976942;stroke-dashoffset:0;stroke-opacity:1"
-       id="path2514"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m -167.60069,72.64704 h -15.24318 v -5.129742 h 15.24318 z"
-       style="fill:#ee2736;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       id="path2516"
-       inkscape:connector-curvature="0" />
-    <text
-       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944427px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       id="text2520"
-       x="-180.84912"
-       y="71.029129">
-      <tspan
-         x="-180.84912 -179.4761 -178.1031 -177.28078 -175.90776 -175.22125 -173.98654 -172.47771 -170.96887"
+     style="display:none"
+     transform="translate(186.01886,37.333895)">
+    <g
+       id="g9674"
+       transform="rotate(90,-108.19326,40.507637)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2514"
+         style="fill:none;stroke:#343596;stroke-width:0.35313058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.25976942;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -32.031368,116.7298 H -184.40597 V 65.929798 h 152.374602 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2516"
+         style="fill:#ee2736;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m -167.60069,72.64704 h -15.24318 v -5.129742 h 15.24318 z" />
+      <text
          y="71.029129"
-         sodipodi:role="line"
-         id="tspan2518"
-         style="stroke-width:0.35277778">safe zone</tspan>
-    </text>
-    <path
-       d="M -30.367668,64.342298 H -186.01886 V 118.3173 H -30.367668 Z M -30.74373,117.94159 H -185.64316 V 64.71836 h 154.89943 z"
-       style="fill:#4dbd38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       id="path2530"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M -33.593468,67.517298 H -182.84387 v 47.571022 h 149.250402 z m -0.352778,47.218242 H -182.49109 V 67.870076 h 148.544844 z"
-       style="fill:#ee2736;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
-       id="path2532"
-       inkscape:connector-curvature="0" />
+         x="-180.84912"
+         id="text2520"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944427px;font-family:Arial;-inkscape-font-specification:Arial-BoldMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778">
+        <tspan
+           style="stroke-width:0.35277778"
+           id="tspan2518"
+           sodipodi:role="line"
+           y="71.029129"
+           x="-180.84912 -179.4761 -178.1031 -177.28078 -175.90776 -175.22125 -173.98654 -172.47771 -170.96887">safe zone</tspan>
+      </text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path2530"
+         style="fill:#4dbd38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="M -30.367668,64.342298 H -186.01886 V 118.3173 H -30.367668 Z M -30.74373,117.94159 H -185.64316 V 64.71836 h 154.89943 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2532"
+         style="fill:#ee2736;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="M -33.593468,67.517298 H -182.84387 v 47.571022 h 149.250402 z m -0.352778,47.218242 H -182.49109 V 67.870076 h 148.544844 z" />
+    </g>
   </g>
 </svg>
